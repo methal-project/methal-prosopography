@@ -1,4 +1,5 @@
 # MeThAL prosopography
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10578456.svg)](https://doi.org/10.5281/zenodo.10578456)
 
 - TEI prosopography for Alsatian theater based on [feature structures](https://tei-c.org/release/doc/tei-p5-doc/fr/html/FS.html).
 - Licence: [CC-BY](https://creativecommons.org/licenses/by/4.0/)
